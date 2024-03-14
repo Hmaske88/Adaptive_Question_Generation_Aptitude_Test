@@ -10,12 +10,20 @@
      <script src="https://cdn.jsdelivr.net/npm/popper.js@2.11.6/dist/umd/popper.min.js"></script>
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
  
-    <title>Document</title>
+     <style>
+      .section-bg{
+          background-image: url('https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format');
+          background-size: cover;
+          background-position: center;
+      }
+     </style>
+
+    <title>Result</title>
 </head>
 
 
 <body>
-    <section class="vh-100" style="background-color: #eee;">
+    <section class="vh-100 section-bg" style="background-color: #eee;">
         <div class="container h-100">
           <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col-lg-12 col-xl-11">
@@ -27,6 +35,13 @@
                       <p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">Result</p>
       
                       <h5>Marks Obtained : {{marks}}</h5>
+                      <br>
+                      <h5>Percentage : {{percent}} %</h5>
+
+                      <br>
+                      <div class="d-flex justify-content-start">
+                        <a href="/analyse"><button class="btn btn-primary btn-lg">Analyse</button></a>
+                    </div>
       
                     </div>
                     <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">

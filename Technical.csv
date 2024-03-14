@@ -1,0 +1,20 @@
+1,What is the term used for describing the judgmental or commonsense part of problem solving?,Heuristic,Critical,Value based,Analytical,Heuristic
+2,Which kind of planning consists of successive representations of different levels of a plan?,hierarchical planning,non-hierarchical planning,All of the above,project planning,hierarchical planning
+3,What could cause a fixed disk error.,No-CD installed,bad ram,slow processor,Incorrect CMOS settings,Incorrect CMOS settings
+4,A hard disk is divided into tracks which are further subdivided into:,clusters,sectors,vectors,heads,sectors
+5,Which of the following is not a logical data-base structure?,tree,relational,network,chain,chain
+6,Each of data files has a _____ that describe the way the data is stored in the file.,File structure,Records,Fields,Database,File structure
+7,What is the language used by most of the DBMSs for helping their users to access data?,High level language,Query language,SQL,4GL,Query language
+8,"In SQL, which command is used to make permanent changes made by statements issue since the beginning of a transaction?",ZIP,PACK,COMMIT,SAVE,COMMIT
+9,"In SQL, which command(s) is(are) used to enable/disable a database trigger?",MODIFY USER,CHANGE USER,ALTER TRIGGER,All of the above,ALTER TRIGGER
+10,Which command is used to remove an index from the database in SQL?,DELETE INDEX,DROP INDEX,REMOVE INDEX,ROLL BACK INDEX,DROP INDEX
+11,"The part of machine level instruction, which tells the central processor what has to be done, is",Operation code,Address,Locator,Flip-Flop,Operation code
+12,"To avoid the race condition, the number of processes that may be simultaneously inside their critical section is",8,1,16,0,1
+13,Process is,program in High level language kept on disk,contents of main memory,a program in execution,a job in secondary memory,a program in execution
+14,"What command is used to count the total number of lines, words, and characters contained in a file?",countw,wcount,wc,count p,wc
+15,What command is used to remove files?,dm,rm,delete,erase,rm
+16,What command is used to remove the directory?,rdir,remove,rd,rmdir,rmdir
+17,What TCP/IP protocol is used for remote terminal connection service?,UDP,RARP,FTP,TELNET,TELNET
+18,Frames from one LAN can be transmitted to another LAN via the device,Router,Bridge,Repeater,Modem,Bridge
+19,"You have a class A network address 10.0.0.0 with 40 subnets, but are required to add 60 new subnets very soon. You would like to still allow for the largest possible number of host IDs per subnet. Which subnet mask should you assign?",255.240.0.0,255.248.0.0,255.252.0.0,255.254.0.0,255.254.0.0
+20,What is the default subnet mask for a class C network?,127.0.0.1,255.0.0.0,255.255.0.0,255.255.255.0,255.255.255.0
